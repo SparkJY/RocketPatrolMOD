@@ -1,4 +1,4 @@
-# RocketPatrolMODresumbit
+# RocketPatrolMODresubmit
 Add carmera shake (10)
 Add your own (copyright-free) background music to the Play scene (10) 
 speed up after 30 sec (10)
