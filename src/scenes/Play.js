@@ -15,7 +15,7 @@ class Play extends Phaser.Scene {
         this.load.image('rocket', './assets/rocket.png');
         this.load.image('spaceship', './assets/spaceship.png');
         this.load.image('spaceship2', './assets/spaceship2.png');
-        this.load.image('starfield', './assets/starfield.png');
+        this.load.image('starfield', './assets/background.png');
 
         this.load.audio('BGM', './assets/BGM.mp3');
         this.load.audio('sfx_select', './assets/blip_select12.wav');
